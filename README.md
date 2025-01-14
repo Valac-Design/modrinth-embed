@@ -1,1 +1,1 @@
-![BedRock Example!](./Bedrock.png)
+![BedRock Example!](./BedRock.png)
